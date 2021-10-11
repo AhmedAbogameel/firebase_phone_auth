@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "851071718652",
+    "project_id": "johnsoncar-f059e",
+    "storage_bucket": "johnsoncar-f059e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851071718652:android:b30115ed3c741634fb3379",
+        "android_client_info": {
+          "package_name": "com.elshafaaf.elazel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851071718652-1hi601c0dt8csh66bsishojirec2vodh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKS0srN6brTLE1yf0RDTa74JHkmRVHZZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851071718652-1hi601c0dt8csh66bsishojirec2vodh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851071718652-l7s1dsk17eei7t6bjib0f9v207p9duuu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elshafaaf.elazel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851071718652:android:82aae282c946f898fb3379",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851071718652-1hi601c0dt8csh66bsishojirec2vodh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKS0srN6brTLE1yf0RDTa74JHkmRVHZZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851071718652-1hi601c0dt8csh66bsishojirec2vodh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851071718652-l7s1dsk17eei7t6bjib0f9v207p9duuu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elshafaaf.elazel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
